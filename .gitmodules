@@ -1,0 +1,3 @@
+[submodule "EncriptadorJavaScript"]
+	path = EncriptadorJavaScript
+	url = git@github.com:MendicantBias-096/EncriptadorJavaScript.git
